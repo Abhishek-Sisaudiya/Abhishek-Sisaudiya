@@ -85,24 +85,7 @@ I enjoy learning by building projects, exploring datasets, developing interactiv
 
 ## 🎮 Contributions, arcade style
 
-## 📊 GitHub at a glance
-
-<table>
-<tr>
-<td width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=Abhishek-Sisaudiya&show_icons=true&theme=tokyonight&hide_border=true" width="100%" alt="GitHub activity statistics">
-</td>
-<td width="50%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek-Sisaudiya&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" width="100%" alt="Most used programming languages">
-</td>
-</tr>
-<tr>
-<td colspan="2" align="center">
-<img src="https://streak-stats.demolab.com?user=Abhishek-Sisaudiya&theme=tokyonight&hide_border=true" width="80%" alt="GitHub contribution streak">
-</td>
-</tr>
-</table>
-
+<picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abhishek-Sisaudiya/Abhishek-Sisaudiya/output/pacman-contribution-graph-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abhishek-Sisaudiya/Abhishek-Sisaudiya/output/pacman-contribution-graph.svg" /> <img src="https://raw.githubusercontent.com/Abhishek-Sisaudiya/Abhishek-Sisaudiya/output/pacman-contribution-graph.svg" alt="GitHub contribution animation" width="100%" /> </picture> --- ## 📊 GitHub at a glance <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Abhishek-Sisaudiya&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="165" alt="GitHub activity statistics" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek-Sisaudiya&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" height="165" alt="Most used programming languages" /> <br /> <img src="https://streak-stats.demolab.com?user=Abhishek-Sisaudiya&theme=tokyonight&hide_border=true" height="165" alt="GitHub contribution streak" /> </div> <sub>GitHub statistics are generated using public repository activity. Third-party services may occasionally be unavailable.</sub> ---
 
 ## 🌱 Beyond the code
 
