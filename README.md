@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img width="100%" alt="Abhishek Sisodiya — Data Analytics, Python & Data Science" src="https://capsule-render.vercel.app/api?type=waving&height=210&section=header&text=Hey%2C%20I%27m%20Abhishek%20Sisodiya%20%F0%9F%91%8B&fontSize=38&fontColor=FFFFFF&fontAlignY=37&animation=fadeIn&desc=Data%20Analytics%20%E2%80%A2%20Python%20%E2%80%A2%20Data%20Science%20%E2%80%A2%20Software%20Development&descSize=16&descAlignY=60&color=0:101820,50:264653,100:6C63FF" />
+<img width="100%" alt="Abhishek Sisodiya — Data Analytics, Python & Data Science" src="https://capsule-render.vercel.app/api?type=waving&height=210&section=header&text=Hey%2C%20I%27m%20Abhishek%20Sisodiya%20%F0%9F%91%8B&fontSize=38&fontColor=FFFFFF&fontAlignY=37&animation=fadeIn&desc=Data%20Analytics%20%E2%80%A2%20Python%20%E2%80%A2%20Data%20Science%20%E2%80%A2%20Software%20Development&descSize=16&descAlignY=60&color=0:101820,50:264653,100:6C63FF"  />
 
 ### Turning data into insights and ideas into practical projects.
 
